@@ -3,7 +3,7 @@ API 7 Eleven
 
 Listado de tiendas de 7 Eleven en México en formato JSON:
 
-https://raw.githubusercontent.com/mexicapis/7-eleven-api/tiendas.json
+https://raw.githubusercontent.com/mexicapis/7-eleven-api/master/tiendas.json
 
 ```
 {
